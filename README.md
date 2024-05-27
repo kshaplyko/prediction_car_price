@@ -5,8 +5,8 @@
 # ПРОЕКТ «Определение рыночной стоимости автомобилей»
 
 Примененные библиотеки и технологии
-- Pandas, Numpy, Matplotlib, Seaborn, Joypy, Skimpy, Datetime, Sklearn, Feature-engine, Catboost, LightGBM
-- KNNImputer, SimpleImputer, OneHotEncoder, OrdinalEncoder, MinMaxScaler, DropCorrelatedFeatures, SelectKBest, mutual_info_regression, make_scorer, RandomizedSearchCV
+- Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Feature-engine, Catboost, LightGBM
+- OneHotEncoder, OrdinalEncoder, make_scorer, GridSearchCV
 
 ## Цели и задачи проекта
 Популярный среди автолюбителей портал по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение для привлечения новых клиентов и расширения своего присутствия в онлайн-пространстве. Новый сервис должен позволить быстро узнать рыночную стоимость автомобиля. Администрацией портала накоплены исторические данные: технические характеристики, комплектации и цены автомобилей, – которые станут основой для обучения машинного алгоритма.
